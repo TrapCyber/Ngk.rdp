@@ -1,5 +1,5 @@
 # RDE
-# Reverse Windows RDP for GitHub Actions
+# Reverse Windows RDsP for GitHub Actions
 Enable RDP access on GitHub Actions VMs for general use.
 
 ## Usage
